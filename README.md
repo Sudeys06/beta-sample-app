@@ -25,7 +25,7 @@ This app helps gym-goers and health-conscious shoppers find **high-protein, low-
 ## 🛠️ Setup
 
 ```bash
-git clone https://github.com/Sudeys06/smart-grocery-picker.git
+- git clone https://github.com/Sudeys06/smart-grocery-picker.git
 cd smart-grocery-picker
-npm install
-npm start
+- npm install
+- npm start
